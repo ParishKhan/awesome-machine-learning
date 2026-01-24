@@ -287,6 +287,7 @@ This will curates things mostly related to Core ML, and Swift. There are related
 - [Using the Speech Recognition API in iOS 10](https://code.tutsplus.com/tutorials/using-the-speech-recognition-api-in-ios-10--cms-28032)
 - [Speech Recognition Tutorial for iOS](https://www.raywenderlich.com/155752/speech-recognition-tutorial-ios)
 - [CeedVocal](https://github.com/creaceed/CeedVocal) Speech Recognition Library for iOS
+- [FluidAudio](https://github.com/FluidInference/FluidAudio) Local audio AI SDK for Apple platforms with ASR, speaker diarization, VAD, and TTS optimized for Apple Neural Engine
 
 ### Speech Synthesizer
 
